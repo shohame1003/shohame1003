@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+<p align="left"> <a href="https://instagram.com/sh.oha.me" target="blank"><img src="https://img.shields.io/instagram/follow/sh.oha.me?logo=instagram&style=for-the-badge" alt="sh.oha.me"  </p>
 
 - 🔭 I am currently looking for a job
 
