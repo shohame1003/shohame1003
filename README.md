@@ -18,7 +18,9 @@
 <a href="https://instagram.com/sh.oha.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 
 
-
-<h1 align="center">🔥 My Stats:</h1>
+<ul>
+  <li>
+<h1>🔥 My Stats:</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="shohame" /></p>
-
+  </li>
+</ul>
