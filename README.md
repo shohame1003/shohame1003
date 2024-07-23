@@ -8,8 +8,6 @@
 
 - 🔭 I am currently looking for a job
 
-- 🌱 I’m currently learning **DevOps**
-
 - 📫 How to reach me **shohkahons@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
